@@ -2,42 +2,10 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse/commons-net-3.6/commons-net-3.6.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse/httpcomponents-client-4.5.5/lib/commons-codec-1.10.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse/httpcomponents-client-4.5.5/lib/commons-logging-1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse/httpcomponents-client-4.5.5/lib/fluent-hc-4.5.5.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse/httpcomponents-client-4.5.5/lib/httpclient-4.5.5.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse/httpcomponents-client-4.5.5/lib/httpclient-cache-4.5.5.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse/httpcomponents-client-4.5.5/lib/httpclient-win-4.5.5.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse/httpcomponents-client-4.5.5/lib/httpcore-4.4.9.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse/httpcomponents-client-4.5.5/lib/httpmime-4.5.5.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse/httpcomponents-client-4.5.5/lib/jna-4.4.0.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse/httpcomponents-client-4.5.5/lib/jna-platform-4.4.0.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse/commons-net-3.6/commons-net-3.6-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse/commons-net-3.6/commons-net-examples-3.6.jar"/>
 	<classpathentry kind="lib" path="org.json.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse/db-derby-10.14.2.0-bin/lib/derby.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse/db-derby-10.14.2.0-bin/lib/derbyclient.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse/db-derby-10.14.2.0-bin/lib/derbyLocale_cs.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse/db-derby-10.14.2.0-bin/lib/derbyLocale_de_DE.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse/db-derby-10.14.2.0-bin/lib/derbyLocale_es.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse/db-derby-10.14.2.0-bin/lib/derbyLocale_fr.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse/db-derby-10.14.2.0-bin/lib/derbyLocale_hu.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse/db-derby-10.14.2.0-bin/lib/derbyLocale_it.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse/db-derby-10.14.2.0-bin/lib/derbyLocale_ja_JP.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse/db-derby-10.14.2.0-bin/lib/derbyLocale_ko_KR.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse/db-derby-10.14.2.0-bin/lib/derbyLocale_pl.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse/db-derby-10.14.2.0-bin/lib/derbyLocale_pt_BR.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse/db-derby-10.14.2.0-bin/lib/derbyLocale_ru.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse/db-derby-10.14.2.0-bin/lib/derbyLocale_zh_CN.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse/db-derby-10.14.2.0-bin/lib/derbyLocale_zh_TW.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse/db-derby-10.14.2.0-bin/lib/derbynet.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse/db-derby-10.14.2.0-bin/lib/derbyoptionaltools.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse/db-derby-10.14.2.0-bin/lib/derbyrun.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse/db-derby-10.14.2.0-bin/lib/derbytools.jar"/>
-	<classpathentry kind="lib" path="C:/Users/RAFFAL/Downloads/Microsoft JDBC Driver 6.0 for SQL Server/sqljdbc_6.0/enu/jre8/sqljdbc42.jar"/>
-	<classpathentry kind="lib" path="C:/javaDB/mysql-connector-java-5.1.46/mysql-connector-java-5.1.46.jar"/>
-	<classpathentry kind="lib" path="C:/javaDB/mysql-connector-java-5.1.46/mysql-connector-java-5.1.46-bin.jar"/>
 	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="lib" path="mysql-connector-java-5.1.46-bin.jar"/>
+	<classpathentry kind="lib" path="mysql-connector-java-5.1.46.jar"/>
+	<classpathentry kind="lib" path="sqljdbc42.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
